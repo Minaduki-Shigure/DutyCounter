@@ -1,0 +1,8 @@
+set_property IOSTANDARD LVCMOS33 [get_ports CLK]
+set_property IOSTANDARD LVCMOS33 [get_ports Cycle_time]
+set_property IOSTANDARD LVCMOS33 [get_ports High_time]
+set_property IOSTANDARD LVCMOS33 [get_ports PWM_in]
+set_property PACKAGE_PIN W5 [get_ports CLK]
+set_property PACKAGE_PIN J1 [get_ports PWM_in]
+set_property PACKAGE_PIN A14 [get_ports High_time]
+set_property PACKAGE_PIN A16 [get_ports Cycle_time]
