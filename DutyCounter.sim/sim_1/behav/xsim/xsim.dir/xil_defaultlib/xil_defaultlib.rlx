@@ -1,0 +1,10 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Vivado Projects/DutyCounter/DutyCounter.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Vivado Projects/DutyCounter/DutyCounter.srcs/sim_1/new/DutyCounter_tb.v,1545551484,verilog,,,,DutyCounter_tb,,,,,,,,
+D:/Vivado Projects/DutyCounter/DutyCounter.srcs/sources_1/new/PWM_cnt.v,1545547248,verilog,,D:/Vivado Projects/DutyCounter/DutyCounter.srcs/sources_1/new/out.v,,PWM_cnt,,,,,,,,
+D:/Vivado Projects/DutyCounter/DutyCounter.srcs/sources_1/new/out.v,1545549844,verilog,,D:/Vivado Projects/DutyCounter/DutyCounter.srcs/sources_1/new/para2serial.v,,out_flag,,,,,,,,
+D:/Vivado Projects/DutyCounter/DutyCounter.srcs/sources_1/new/para2serial.v,1545548841,verilog,,D:/Vivado Projects/DutyCounter/DutyCounter.srcs/sources_1/new/top.v,,para2serial,,,,,,,,
+D:/Vivado Projects/DutyCounter/DutyCounter.srcs/sources_1/new/top.v,1545550372,verilog,,D:/Vivado Projects/DutyCounter/DutyCounter.srcs/sim_1/new/DutyCounter_tb.v,,top,,,,,,,,
