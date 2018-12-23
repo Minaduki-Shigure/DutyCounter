@@ -1,0 +1,16 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 64ed43b73778425e8d808f07df28881e --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot DutyCounter_tb_behav xil_defaultlib.DutyCounter_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.PWM_cnt
+Compiling module xil_defaultlib.out_flag
+Compiling module xil_defaultlib.para2serial
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.DutyCounter_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot DutyCounter_tb_behav
